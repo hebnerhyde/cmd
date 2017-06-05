@@ -1,0 +1,1 @@
+net use T: \\rwnetapp01\VDIredirect_KUL\srev\%username%\desktop
